@@ -7,4 +7,5 @@ import { mathem, sum } from './modules/calc';
 const img = new Image();
 img.src = imageexample;
 console.log(mathem(2, 4));
+
 console.log(sum(6, 2));
